@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Enter Ansible Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
@@ -31,7 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> CI/CD Modified Ansible today Thankyou subash Chandar it is good to see you, Happy Learning </h1>
+   <h1> Resolved difier Ansible today Thankyou subash Chandar it is good to see you, Happy Learning </h1>
+ 
 
   
 </form>
