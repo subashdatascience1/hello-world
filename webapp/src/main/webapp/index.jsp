@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> CI/CD Docker and kubernetsResolved difier Ansible today Thankyou subash Chandar it is good to see you, Happy Learning </h1>
+   <h1> Last CI/CD Docker and kubernetsResolved difier Ansible today Thankyou subash Chandar it is good to see you, Happy Learning </h1>
  
 
   
